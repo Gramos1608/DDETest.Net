@@ -1,0 +1,6 @@
+BEGIN 
+
+VAR A VARCHAR();
+
+
+END 
