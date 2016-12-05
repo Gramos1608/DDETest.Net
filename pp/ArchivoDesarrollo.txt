@@ -1,8 +1,5 @@
 Archivo en Desarrollo.
-<<<<<<< HEAD
 
 Edit de Pablo 
-=======
--------------------------
-122222222222222222222223
->>>>>>> origin/Desarrollo
+
+
