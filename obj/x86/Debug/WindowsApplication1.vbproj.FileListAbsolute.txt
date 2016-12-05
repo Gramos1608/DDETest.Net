@@ -1,0 +1,10 @@
+C:\Users\Guillermo\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Guillermo\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Guillermo\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\DDETest.DDETest.resources
+C:\Users\Guillermo\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\DDETest.Resources.resources
+C:\Users\Guillermo\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\DDETest.exe
+C:\Users\Guillermo\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\DDETest.xml
+C:\Users\Guillermo\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\DDETest.pdb
+C:\Users\Guillermo\AppData\Local\Temporary Projects\DDETest.exe
+C:\Users\Guillermo\AppData\Local\Temporary Projects\DDETest.pdb
+C:\Users\Guillermo\AppData\Local\Temporary Projects\DDETest.xml

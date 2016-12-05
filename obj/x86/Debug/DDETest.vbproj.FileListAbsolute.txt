@@ -1,0 +1,15 @@
+D:\Mega\Otros\DDETest.Net\obj\x86\Debug\DDETest.exe
+D:\Mega\Otros\DDETest.Net\obj\x86\Debug\DDETest.xml
+D:\Mega\Otros\DDETest.Net\obj\x86\Debug\DDETest.pdb
+D:\Mega\Otros\DDETest.Net\obj\x86\Debug\DDETest.vbprojResolveAssemblyReference.cache
+D:\Mega\Otros\DDETest.Net\obj\x86\Debug\DDETest.DDETest.resources
+D:\Mega\Otros\DDETest.Net\obj\x86\Debug\DDETest.Resources.resources
+D:\Mega\Otros\DDETest.Net\obj\x86\Debug\DDETest.vbproj.GenerateResource.Cache
+D:\Mega\Otros\DDETest.exe
+D:\Mega\Otros\DDETest.pdb
+D:\Mega\Otros\DDETest.xml
+D:\Mega\Otros\DDETest.Net\DDETest.exe
+D:\Mega\Otros\DDETest.Net\DDETest.pdb
+D:\Mega\Otros\DDETest.Net\DDETest.xml
+D:\Mega\Otros\DDETest.Net\NDde.dll
+D:\Mega\Otros\DDETest.Net\NDde.xml
